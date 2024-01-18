@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/nitish-saraswat-6a006b12b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitish saraswat" height="30" width="40" /></a>
 <a href="https://www.facebook.com/nitish.saraswat.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nitish saraswat" height="30" width="40" /></a>
-<a href="https://instagram.com/nitish sarswat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish sarswat" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nitishsarswat?igsh=bzAyY20zamMzdmJp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nitish sarswat" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/programmingknoww" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programmingknoww" height="30" width="40" /></a>
 </p>
 
