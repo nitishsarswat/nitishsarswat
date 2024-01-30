@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishsarswat&label=Profile%20views&color=0e75b6&style=flat" alt="nitishsarswat" /> </p>
 
-- 🔭 I’m currently working on **BMW**
+- 🔭 I’m currently working on **BMW PROJECT**
 
 - 🌱 I’m currently learning **HIBERNATE, SPRINGBOOT ,DSA,SYSTEM DESIGN AND COMPETATIVE PROGRAMMING**
 
